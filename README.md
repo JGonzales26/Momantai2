@@ -10,8 +10,7 @@
 ## 🦅 HORUS SYSTEM
 
 > Plataforma enfocada en **gestión, control y toma de decisiones empresariales**
-
-Estoy desarrollando **Horus**, un SaaS modular orientado a empresas que necesitan:
+  SaaS modular orientado a empresas que necesitan:
 - Gestión de proyectos  
 - Control de documentos  
 - Seguimiento de operaciones  
