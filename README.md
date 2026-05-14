@@ -59,7 +59,7 @@ tRPC • Prisma • Drizzle • NextAuth • Supabase • RLS • Realtime
 
 ## 📂 Proyectos
 
-### 🦅 Horus SaaS (En desarrollo)
+### 🦅 Horus SaaS
 Sistema modular empresarial con:
 - Gestión de proyectos
 - Sistema de documentos
